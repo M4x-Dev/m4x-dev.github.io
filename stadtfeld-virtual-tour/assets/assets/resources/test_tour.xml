@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tour
+    startNode="home">
+    <TourNode
+        id="home"
+        name="Start"
+        image="assets/images/demo.jpg">
+        <TourRedirectAction
+            color="#AAAAAA"
+            icon="E45A"
+            latitude=".5"
+            longitude="-28"
+            destination="demo" />
+        <TourDialogAction
+            color="#3199DE"
+            icon="E33C"
+            latitude="-12.8"
+            longitude="193.2"
+            title="Dialog"
+            content="assets/resources/dialog_test.txt"
+            contentType="file/text" />
+        <TourDialogAction
+            color="#3199DE"
+            icon="E33C"
+            latitude="-12.8"
+            longitude="100"
+            title="Dialog (HTML)"
+            content="<h1>Hallo!</h1>"
+            contentType="raw/html" />
+        <TourDialogAction
+            color="#3199DE"
+            icon="E33C"
+            latitude="-12.8"
+            longitude="50"
+            title="Dialog (Markdown)"
+            content="assets/resources/dialog_markdown_test.md"
+            contentType="file/markdown" />
+    </TourNode>
+    <TourNode
+        id="demo"
+        name="See-Umgebung"
+        image="assets/images/demo_2.jpg">
+        <TourRedirectAction
+            color="#AAAAAA"
+            icon="EF3D"
+            latitude="10.12"
+            longitude="-100"
+            destination="home" />
+        <TourDocumentAction
+            color="#AAAAAA"
+            icon="E1BF"
+            latitude="10.12"
+            longitude="-120"
+            title="Dokument"
+            content="assets/resources/dialog_test.txt"
+            contentType="file/text" />
+        <TourDocumentAction
+            color="#AAAAAA"
+            icon="E1BF"
+            latitude="10.12"
+            longitude="-140"
+            title="Dokument (HTML)"
+            content="<h1>Hey! Noch ein Dokument!</h1><br><p>Hey!</p>"
+            contentType="raw/html" />
+        <TourDocumentAction
+            color="#AAAAAA"
+            icon="E1BF"
+            latitude="10.12"
+            longitude="-160"
+            title="Dokument (Markdown)"
+            content="assets/resources/dialog_markdown_test.md"
+            contentType="file/markdown" />
+        <TourSubjectAction
+            color="#FF1212"
+            icon="E0F1"
+            latitude="10.12"
+            longitude="-200"
+            subjectName="Physik"
+            subjectColor="#FF1212"
+            subjectVideo="https://www.youtube.com/watch?v=d2SEtUXOsEU"
+            subjectContent="assets/resources/fachschaft_physik.md"
+            subjectContentType="file/markdown" />
+        <TourSubjectAction
+            color="DE7631"
+            icon="E0F1"
+            latitude="10.12"
+            longitude="-220"
+            subjectName="Astronomie"
+            subjectColor="DE7631"
+            subjectVideo="https://www.youtube.com/watch?v=ufIl4HFCTKw"
+            subjectContent="assets/resources/fachschaft_physik.md"
+            subjectContentType="file/markdown" />
+    </TourNode>
+</Tour>
