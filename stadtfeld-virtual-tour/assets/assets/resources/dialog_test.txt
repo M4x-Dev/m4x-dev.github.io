@@ -1,1 +1,0 @@
-Hallo, ich bin ein Dialog, welcher dynamisch aus einem XML und einem TXT file generiert wurde.

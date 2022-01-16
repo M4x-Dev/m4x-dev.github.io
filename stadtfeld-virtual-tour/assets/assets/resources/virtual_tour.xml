@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tour
+    startNode="lobby">
+
+    <!--Lobby Node-->
+    <TourNode
+        id="lobby"
+        name="Foyer"
+        image="assets/images/foyer_adjusted.JPG">
+
+        <!--Primary Navigation Destinations-->
+        <TourRedirectAction
+            latitude="-5.95"
+            longitude="-143.45"
+            destination="administration" />
+
+        <TourRedirectAction
+            latitude="-0.81"
+            longitude="0.924"
+            destination="languages" />
+
+        <TourRedirectAction
+            latitude="-13.26"
+            longitude="0.924"
+            destination="sciences" />
+
+        <TourRedirectAction
+            latitude="-5.95"
+            longitude="141.81"
+            destination="art" />
+
+        <!--Dialogs-->
+        <TourDialogAction
+            color="#2196F3"
+            icon="F128"
+            latitude="-6.18"
+            longitude="-88.98"
+            title="Förderverein Stadtfeld"
+            contentType="file/markdown"
+            content="assets/resources/foerderverein_stadtfeld.md" />
+
+        <!--Hidden Figure (Rallye)-->
+        <TourHiddenFigureAction
+            latitude="-23.91"
+            longitude="-9.9"
+            width="70"
+            height="130"
+            showHint="true" />
+
+    </TourNode>
+
+    <!--Administrations Node-->
+    <TourNode
+        id="administration"
+        name="Sekretariat"
+        image="assets/images/sekretariat.JPG">
+
+        <!--Subjects-->
+        <!--Fachschaft Deutsch-->
+        <TourSubjectAction
+            color="#2196F3"
+            icon="E5F8"
+            latitude="-10.37"
+            longitude="17.80"
+            subjectName="Deutsch"
+            subjectColor="#2196F3"
+            subjectRoot="assets/subjects/deutsch/" />
+
+        <!--Fachschaft Geschichte-->
+        <TourSubjectAction
+            color="#CDDC39"
+            icon="E5F8"
+            latitude="10.28"
+            longitude="-5.49"
+            subjectName="Geschichte"
+            subjectColor="#CDDC39"
+            subjectRoot="assets/subjects/geschichte/" />
+
+        <!--Secondary Navigation Destinations-->
+        <TourRedirectAction
+            latitude="5.14"
+            longitude="177.10"
+            destination="lobby" />
+
+        <TourRedirectAction
+            latitude="-8.57"
+            longitude="177.10"
+            destination="art" />
+
+        <!--Hidden Figure (Rallye)-->
+        <TourHiddenFigureAction
+            latitude="-2.31"
+            longitude="-168.58"
+            width="50"
+            height="85" />
+
+    </TourNode>
+
+    <!--Languages Node-->
+    <TourNode
+        id="languages"
+        name="Sprachen"
+        image="assets/images/sprachen.JPG">
+
+        <!--Subjects-->
+        <!--Fachschaft Englisch-->
+        <TourSubjectAction
+            color="#2196F3"
+            icon="E5F8"
+            latitude="8.84"
+            longitude="-7.11"
+            subjectName="Englisch"
+            subjectColor="#2196F3"
+            subjectRoot="assets/subjects/englisch/" />
+
+        <!--Fachschaft Französisch-->
+        <TourSubjectAction
+            color="#009688"
+            icon="E0F1"
+            latitude="-3.39"
+            longitude="-100.94"
+            subjectName="Französisch"
+            subjectColor="#009688"
+            subjectRoot="assets/subjects/franzoesisch/" />
+
+        <!--Fachschaft Latein-->
+        <TourSubjectAction
+            color="#CDDC39"
+            icon="E0F1"
+            latitude="-2.29"
+            longitude="106.39"
+            subjectName="Latein"
+            subjectColor="#CDDC39"
+            subjectRoot="assets/subjects/latein/" />
+
+        <!--Secondary Navigation Destinations-->
+        <TourRedirectAction
+            latitude="-1.33"
+            longitude="172.49"
+            destination="sciences" />
+
+        <TourRedirectAction
+            latitude="-14.03"
+            longitude="172.49"
+            destination="art" />
+
+        <TourRedirectAction
+            latitude="-25.98"
+            longitude="25.57"
+            destination="lobby" />
+
+        <!--Hidden Figure (Rallye)-->
+        <TourHiddenFigureAction
+            latitude="5.14"
+            longitude="-13.85"
+            width="50"
+            height="80" />
+
+    </TourNode>
+
+    <!--Sciences Node-->
+    <TourNode
+        id="sciences"
+        name="Naturwissenschaften"
+        actionName="Natur-\nwissenschaften"
+        image="assets/images/naturwissenschaften.JPG">
+
+        <!--Subjects-->
+        <!--Fachschaft Mathematik-->
+        <TourSubjectAction
+            color="#F44336"
+            icon="E0F1"
+            latitude="5.13"
+            longitude="-89.82"
+            subjectName="Mathematik"
+            subjectColor="#F44336"
+            subjectRoot="assets/subjects/mathematik/" />
+
+        <!--Fachschaft Astronomie-->
+        <TourSubjectAction
+            color="#EBD31E"
+            icon="E0F1"
+            latitude="-14.61"
+            longitude="-89.82"
+            subjectName="Astronomie"
+            subjectColor="#EBD31E"
+            subjectRoot="assets/subjects/astronomie/" />
+
+        <!--Fachschaft Chemie-->
+        <TourSubjectAction
+            color="#009688"
+            icon="E0F1"
+            latitude="-0.57"
+            longitude="90.54"
+            subjectName="Chemie"
+            subjectColor="#009688"
+            subjectRoot="assets/subjects/chemie/" />
+
+        <!--Fachschaft Sozialkunde-->
+        <TourSubjectAction
+            color="#2196F3"
+            icon="E0F1"
+            latitude="-11.44"
+            longitude="90.54"
+            subjectName="Sozialkunde"
+            subjectColor="#2196F3"
+            subjectRoot="assets/subjects/sozialkunde/" />
+
+        <!--Fachschaft Biologie-->
+        <TourSubjectAction
+            color="#FFC107"
+            icon="E5F8"
+            latitude="-20.69"
+            longitude="26.32"
+            subjectName="Biologie"
+            subjectColor="#FFC107"
+            subjectRoot="assets/subjects/biologie/" />
+
+        <!--Fachschaft Physik-->
+        <TourSubjectAction
+            color="#F44336"
+            icon="E5F8"
+            latitude="8.71"
+            longitude="-4.90"
+            subjectName="Physik"
+            subjectColor="#F44336"
+            subjectRoot="assets/subjects/physik/" />
+
+        <!--Secondary Navigation Destinations-->
+        <TourRedirectAction
+            latitude="-3.09"
+            longitude="179.79"
+            destination="languages" />
+
+        <!--Hidden Figure (Rallye)-->
+        <TourHiddenFigureAction
+            latitude="-3.97"
+            longitude="-88.91"
+            width="30"
+            height="60"/>
+
+    </TourNode>
+
+    <!--Arts Node-->
+    <TourNode
+        id="art"
+        name="Kunst"
+        actionName="Kunst\nMusik\nReligion"
+        image="assets/images/kunst.JPG">
+
+        <!--Subjects-->
+        <!--Fachschaft Kunst-->
+        <TourSubjectAction
+            color="#EBD31E"
+            icon="E0F1"
+            latitude="-0.03"
+            longitude="70.97"
+            subjectName="Kunst"
+            subjectColor="#EBD31E"
+            subjectRoot="assets/subjects/kunst/" />
+
+        <!--Fachschaft Ethik/Religion-->
+        <TourSubjectAction
+            color="#F44336"
+            icon="E0F1"
+            latitude="-1.04"
+            longitude="112.84"
+            subjectName="Ethik/Religion"
+            subjectColor="#E82020"
+            subjectRoot="assets/subjects/ethik_religion/" />
+
+        <!--Fachschaft Musik-->
+        <TourSubjectAction
+            color="#FFC107"
+            icon="E0F1"
+            latitude="-1.34"
+            longitude="89.83"
+            subjectName="Musik"
+            subjectColor="#FFC107"
+            subjectRoot="assets/subjects/musik/" />
+
+        <!--Secondary Navigation Destinations-->
+        <TourRedirectAction
+            latitude="6.82"
+            longitude="-177.75"
+            destination="languages" />
+
+        <TourRedirectAction
+            latitude="-6.89"
+            longitude="-177.75"
+            destination="sciences" />
+
+        <TourRedirectAction
+            latitude="-18.96"
+            longitude="-177.75"
+            destination="lobby" />
+
+        <!--Hidden Figure (Rallye)-->
+        <TourHiddenFigureAction
+            latitude="-7.68"
+            longitude="-127.45"
+            width="70"
+            height="120" />
+
+    </TourNode>
+
+</Tour>

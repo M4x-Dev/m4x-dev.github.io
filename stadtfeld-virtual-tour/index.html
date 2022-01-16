@@ -29,17 +29,17 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>virtual_tour</title>
+  <title>Gymnasium Stadtfeld - Virtueller Rundgang</title>
   <link rel="manifest" href="manifest.json">
 
-  <script src="height_messenger.js"></script>
+  <script src="extensions.js"></script>
 </head>
 <body>
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '2678344802';
+    var serviceWorkerVersion = '4140578636';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -52,10 +52,7 @@
       document.body.append(scriptTag);
     }
 
-    console.log("Loading main dart scripts");
-    loadMainDartJs();
-
-    /*if ('serviceWorker' in navigator) {
+    if ('serviceWorker' in navigator) {
       // Service workers are supported. Use them.
       window.addEventListener('load', function () {
         // Wait for registration to finish before dropping the <script> tag.
@@ -103,7 +100,7 @@
     } else {
       // Service workers not supported. Just drop the <script> tag.
       loadMainDartJs();
-    }*/
+    }
   </script>
 </body>
 </html>
