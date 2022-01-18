@@ -37,7 +37,43 @@
             longitude="-88.98"
             title="Förderverein Stadtfeld"
             contentType="file/markdown"
-            content="assets/resources/foerderverein_stadtfeld.md" />
+            content="assets/resources/documents/foerderverein_stadtfeld.md" />
+
+        <TourDialogAction
+            color="#2196F3"
+            icon="F128"
+            latitude="15.31"
+            longitude="121.26"
+            title="Begabungsförderung"
+            contentType="file/markdown"
+            content="assets/resources/documents/begabungsfoerderung.md" />
+
+        <TourDialogAction
+            color="#2196F3"
+            icon="F128"
+            latitude="6.13"
+            longitude="-58.68"
+            title="Vertretungsplan"
+            contentType="file/markdown"
+            content="assets/resources/documents/vertretungsplan.md" />
+
+        <TourDialogAction
+            color="#2196F3"
+            icon="F128"
+            latitude="-25.20"
+            longitude="-26.22"
+            title="Studienberatung"
+            contentType="file/markdown"
+            content="assets/resources/documents/studienberatung.md" />
+
+        <TourDialogAction
+            color="#2196F3"
+            icon="F128"
+            latitude="-4.78"
+            longitude="19.00"
+            title="Stadtküche Wernigerode"
+            contentType="file/markdown"
+            content="assets/resources/documents/stadtkueche_wernigerode.md" />
 
         <!--Hidden Figure (Rallye)-->
         <TourHiddenFigureAction
@@ -53,7 +89,7 @@
     <TourNode
         id="administration"
         name="Sekretariat"
-        image="assets/images/sekretariat.JPG">
+        image="assets/images/sekretariat_adjusted.JPG">
 
         <!--Subjects-->
         <!--Fachschaft Deutsch-->
