@@ -75,6 +75,19 @@
             contentType="file/markdown"
             content="assets/resources/documents/stadtkueche_wernigerode.md" />
 
+        <!--Subjects-->
+        <!--Ganztagesangebot der Schule-->
+        <TourSubjectAction
+            color="#2196F3"
+            icon="F128"
+            latitude="-0.97"
+            longitude="76.63"
+            subjectName="Ganztagsangebot"
+            subjectFormattedName="Ganztags- angebot"
+            isSubject="false"
+            subjectColor="#2196F3"
+            subjectRoot="assets/subjects/gta/" />
+
         <!--Hidden Figure (Rallye)-->
         <TourHiddenFigureAction
             latitude="-23.91"
