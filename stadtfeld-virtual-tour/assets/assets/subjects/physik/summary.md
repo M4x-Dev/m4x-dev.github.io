@@ -1,5 +1,3 @@
-# Die Fachschaft Physik
+# Die phaeno-Exkursion
 
----
-
-Coming soon
+Im Herbst des aktuellen Schuljahres nutzen unsere Neuntklässler die Gelegenheit, ihr physikalisches Wissen im phaeno im Wolfsburg zu erweitern und anzuwenden.

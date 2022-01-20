@@ -1,8 +1,6 @@
 {
     "name": "Kunst",
-    "teaser": "<Teaser>",
+    "teaser": "",
     "color": "#EBD31E",
-    "videoLink": "https://www.youtube.com/watch?v=20NN6iID35U",
-    "exportGallery": "true",
-    "exportWorks": "true"
+    "videoLink": "https://www.youtube.com/watch?v=20NN6iID35U"
 }

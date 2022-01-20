@@ -1,5 +1,5 @@
-# Die Fachschaft Latein
+# Studienreise des Lateinkurses 10 nach Trier
 
----
+Amphitheater, Karl-Marx-Haus und Thermenanlagen: für einen Außenstehenden mögen diese Orte nach einem inkompatiblen Trio klingen. Wir, zehn Schüler des Lateinkurses 10 mit unseren begleitenden Lehrkräften Frau Asche und Frau Lehmann, konnten uns allerdings vom Gegenteil überzeugen. Im Rahmen einer Studienfahrt in die älteste Stadt Deutschlands, Trier, stellten wir fest, dass auch hier römische Baudenkmäler existieren, die sich neben modernen Gebäuden wie selbstverständlich ins Stadtbild einfügen. Insgesamt verbrachten wir 5 Tage in der Stadt in Rheinland-Pfalz. Am Montag erkundeten wir nach einer langen und anstrengenden Zuganreise am späten Nachmittag noch gemeinsam die Umgebung rund um unsere Jugendherberge. Danach hatten wir am Dienstag das Vergnügen, eine Stadtführung aus der Sicht einer Römerin zu erleben. Diese konnten wir durch unsere vorbereitenden Schülervorträge über die Porta Nigra, die Kaiserthermen, die Basilika, das Karl-Marx-Haus, das Kurfürstliche Palais und das Amphitheater ergänzen. Am nächsten Tag studierten wir zuerst die zahlreichen antiken Exponate im Rheinischen Landesmuseum und schauten uns dann die schöne Stadt bei einer Moselfahrt vom Wasser aus an. Donnerstags haben wir die steilen Bergabhänge und die sonnigen Auen des Moseltales in Form einer Wanderung auf uns wirken lassen. Schließlich sind wir am Freitag wieder abgereist. Per Zug ging es über Mainz, Frankfurt und Goslar nach Wernigerode zurück. Trotz Corona-Pandemie hatten wir eine tolle und erlebnisreiche Studienreise, auf der wir viel Spaß hatten und eine Menge gelernt haben.  
 
-Coming soon
+von Lennox Schrickel und Marlon Ehrt

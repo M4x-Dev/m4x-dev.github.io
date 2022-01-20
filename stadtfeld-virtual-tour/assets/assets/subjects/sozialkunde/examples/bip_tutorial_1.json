@@ -1,0 +1,7 @@
+{
+    "name":"Wirtschaftstutorial Sozialkunde",
+    "description":"Tutorial zum BIP im Kurs Sozialkunde 12",
+    "author": "Maximilian Flügel, Julian Schmuck",
+    "extension": "https://gymnasium-stadtfeld.de/Rundgang/videos/sozialkunde_tutorial_1.mp4",
+    "type": "video_web"
+}

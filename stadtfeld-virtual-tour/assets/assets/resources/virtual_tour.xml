@@ -105,6 +105,16 @@
         image="assets/images/sekretariat_adjusted.JPG">
 
         <!--Subjects-->
+        <!--Fachschaft Geographie-->
+        <TourSubjectAction
+            color="#FFEB3B"
+            icon="E0F1"
+            latitude="-4.11"
+            longitude="-51.23"
+            subjectName="Geografie"
+            subjectColor="#FFEB3B"
+            subjectRoot="assets/subjects/geographie/" />
+
         <!--Fachschaft Deutsch-->
         <TourSubjectAction
             color="#2196F3"
@@ -117,12 +127,12 @@
 
         <!--Fachschaft Geschichte-->
         <TourSubjectAction
-            color="#CDDC39"
+            color="#FFEB3B"
             icon="E5F8"
             latitude="10.28"
             longitude="-5.49"
             subjectName="Geschichte"
-            subjectColor="#CDDC39"
+            subjectColor="#FFEB3B"
             subjectRoot="assets/subjects/geschichte/" />
 
         <!--Secondary Navigation Destinations-->
@@ -166,20 +176,29 @@
         <TourSubjectAction
             color="#009688"
             icon="E0F1"
-            latitude="-3.39"
+            latitude="-0.39"
             longitude="-100.94"
             subjectName="Französisch"
             subjectColor="#009688"
             subjectRoot="assets/subjects/franzoesisch/" />
 
+        <TourSubjectAction
+            color="#F44336"
+            icon="E0F1"
+            latitude="-13.45"
+            longitude="-101.12"
+            subjectName="Spanisch"
+            subjectColor="#F44336"
+            subjectRoot="assets/subjects/spanisch/" />
+
         <!--Fachschaft Latein-->
         <TourSubjectAction
-            color="#CDDC39"
+            color="#FFEB3B"
             icon="E0F1"
             latitude="-2.29"
             longitude="106.39"
             subjectName="Latein"
-            subjectColor="#CDDC39"
+            subjectColor="#FFEB3B"
             subjectRoot="assets/subjects/latein/" />
 
         <!--Secondary Navigation Destinations-->
@@ -315,18 +334,8 @@
             latitude="-1.04"
             longitude="112.84"
             subjectName="Ethik/Religion"
-            subjectColor="#E82020"
+            subjectColor="#F44336"
             subjectRoot="assets/subjects/ethik_religion/" />
-
-        <!--Fachschaft Musik-->
-        <TourSubjectAction
-            color="#FFC107"
-            icon="E0F1"
-            latitude="-1.34"
-            longitude="89.83"
-            subjectName="Musik"
-            subjectColor="#FFC107"
-            subjectRoot="assets/subjects/musik/" />
 
         <!--Secondary Navigation Destinations-->
         <TourRedirectAction
