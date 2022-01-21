@@ -2,6 +2,6 @@
     "name":"Podcast (2)",
     "description":"Podcast zum Vegetarismus und Veganismus",
     "author":"",
-    "extension":".mp3",
-    "type":"audio"
+    "extension":".mp4",
+    "type":"video"
 }

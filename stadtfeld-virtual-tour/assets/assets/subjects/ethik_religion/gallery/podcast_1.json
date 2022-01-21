@@ -2,6 +2,6 @@
     "name":"Podcast (1)",
     "description":"Podcast zum Thema Schwangerschaftsabbrüche",
     "author":"Valentin, Leni, Angelina, Josephine",
-    "extension":".mp3",
-    "type":"audio"
+    "extension":".mp4",
+    "type":"video"
 }

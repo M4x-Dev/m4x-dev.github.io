@@ -1,0 +1,1 @@
+Die Bastelanleitung für den Globus kann auf unserer Homepage [heruntergeladen](https://www.gymnasium-stadtfeld.de/wordpress/wp-content/uploads/2021/01/Bastelvorlage.pdf) werden.
