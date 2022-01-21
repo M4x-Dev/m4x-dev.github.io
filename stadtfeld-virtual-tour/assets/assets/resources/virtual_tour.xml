@@ -33,18 +33,10 @@
         <TourDialogAction
             color="#2196F3"
             icon="F128"
-            latitude="-6.18"
-            longitude="-88.98"
-            title="Förderverein Stadtfeld"
-            contentType="file/markdown"
-            content="assets/resources/documents/foerderverein_stadtfeld.md" />
-
-        <TourDialogAction
-            color="#2196F3"
-            icon="F128"
             latitude="15.31"
             longitude="121.26"
-            title="Begabungsförderung"
+            title="Begabungs- und Begabtenförderung"
+            displayTitle="Begabungs- und Begabten- förderung"
             contentType="file/markdown"
             content="assets/resources/documents/begabungsfoerderung.md" />
 
@@ -54,6 +46,7 @@
             latitude="6.13"
             longitude="-58.68"
             title="Vertretungsplan"
+            displayTitle="Vertretungs- plan"
             contentType="file/markdown"
             content="assets/resources/documents/vertretungsplan.md" />
 
@@ -63,6 +56,7 @@
             latitude="-25.20"
             longitude="-26.22"
             title="Studienberatung"
+            displayTitle="Studien- beratung"
             contentType="file/markdown"
             content="assets/resources/documents/studienberatung.md" />
 
@@ -87,6 +81,17 @@
             isSubject="false"
             subjectColor="#2196F3"
             subjectRoot="assets/subjects/gta/" />
+
+        <!--Förderverein Stadtfeld-->
+        <TourSubjectAction
+            color="#2196F3"
+            icon="F128"
+            latitude="-6.18"
+            longitude="-88.98"
+            subjectName="Förderverein"
+            isSubject="false"
+            subjectColor="2196F3"
+            subjectRoot="assets/subjects/foerderverein/" />
 
         <!--Hidden Figure (Rallye)-->
         <TourHiddenFigureAction
@@ -145,6 +150,15 @@
             latitude="-8.57"
             longitude="177.10"
             destination="art" />
+
+        <TourDialogAction
+            color="#2196F3"
+            icon="F128"
+            latitude="-1.72"
+            longitude="61.46"
+            title="Kontakt"
+            contentType="file/markdown"
+            content="assets/resources/documents/kontakt.md" />
 
         <!--Hidden Figure (Rallye)-->
         <TourHiddenFigureAction
@@ -231,7 +245,7 @@
         id="sciences"
         name="Naturwissenschaften"
         actionName="Natur-\nwissenschaften"
-        image="assets/images/naturwissenschaften.JPG">
+        image="assets/images/naturwissenschaften_adjusted.JPG">
 
         <!--Subjects-->
         <!--Fachschaft Mathematik-->
@@ -313,7 +327,7 @@
     <TourNode
         id="art"
         name="Kunst"
-        actionName="Kunst\nMusik\nReligion"
+        actionName="Kunst\nEthik\nReligion"
         image="assets/images/kunst.JPG">
 
         <!--Subjects-->

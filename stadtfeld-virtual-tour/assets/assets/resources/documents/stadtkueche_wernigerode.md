@@ -1,1 +1,1 @@
-# Stadtküche Wernigerode
+Essensversorgung über die [Stadtküche Wernigerode](https://www.stadtkueche-wernigerode.de)

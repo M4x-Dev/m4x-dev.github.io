@@ -1,0 +1,1 @@
+[Link zu unserem Schulplaner](https://www.gymnasium-stadtfeld.de/wordpress/wp-content/uploads/2022/01/Slider-338-1.png)
