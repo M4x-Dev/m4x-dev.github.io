@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "7e4fda915ce42447fa29d479843e0d4e",
-"index.html": "9fd7f07e5bd61735e724c653b6fbaf79",
-"/": "9fd7f07e5bd61735e724c653b6fbaf79",
+"index.html": "bc4ab4dcb65d989781ca7f208a5362cc",
+"/": "bc4ab4dcb65d989781ca7f208a5362cc",
 "main.dart.js": "712e718736fdc1f06b50789451cb5100",
 "favicon.jpg": "cd122d177b16f92a501ab956ac4f50ce",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -76,7 +76,7 @@ const RESOURCES = {
 "assets/assets/sounds/collected.mp3": "0c2d3ba54e1f59684131bb7c81109e35",
 "assets/assets/subjects/franzoesisch/summary.md": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/subjects/franzoesisch/examples/bundeswettbewerb.json": "ae124f0ba3bec78bce6980263524c950",
-"assets/assets/subjects/franzoesisch/subject.json": "fe5480a5854d4de050f214e4091aed51",
+"assets/assets/subjects/franzoesisch/subject.json": "b412eb4bc1cd87a251fb951d280f1f8e",
 "assets/assets/subjects/musik/summary.md": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/subjects/musik/subject.json": "9475477cdd96119be022f6f372154f3c",
 "assets/assets/subjects/geschichte/summary.md": "d41d8cd98f00b204e9800998ecf8427e",
